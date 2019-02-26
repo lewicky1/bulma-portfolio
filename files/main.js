@@ -64,7 +64,7 @@ const svg = document.getElementById('svg');
 const text = ["I made pixel perfect layouts with fully responsive Website, animations, and SEO friendly code.","My experience is still growing. I am developing and coding every day.", 
 "I do my best to work faster and each day. My code is bug-free. Practice makes the master.", "I am open-minded and friendly. I do not have any problems with contacts both with clients or co-workers. I love to work."];
 
-const img = ["resources/images/checklist.svg", "resources/images/hiring.svg", "resources/images/work.svg", "resources/images/conversation.svg"];
+const img = ["files/images/checklist.svg", "files/images/hiring.svg", "files/images/work.svg", "files/images/conversation.svg"];
 
 let tableElement = 0;
 
